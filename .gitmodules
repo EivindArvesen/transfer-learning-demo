@@ -1,0 +1,3 @@
+[submodule "submodules/tensorflow-for-poets-2"]
+	path = submodules/tensorflow-for-poets-2
+	url = https://github.com/googlecodelabs/tensorflow-for-poets-2

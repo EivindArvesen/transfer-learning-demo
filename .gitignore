@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+dataset/*
+!dataset/.gitkeep 
+!dataset/train
+!dataset/test
+dataset/train/* 
+!dataset/train/.gitkeep 
+dataset/test/* 
+!dataset/test/.gitkeep 
+tf_files/*
+!tf_files/.gitkeep 
