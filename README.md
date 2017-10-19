@@ -4,6 +4,8 @@ This repo contains a demo of transfer-learning using Inception v3 and TensorFlow
 
 Much of the material is based on Google's Codelab [TensorFlow for Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets)
 
+** If you don't want to set up the project dependencies yourself**, you can view results used in a [presentation](Presentasjon.pdf), with different humanoid species of the Star Trek universe [here](https://github.com/eivind88/transfer-learning-demo/blob/master/Transfer-Learning.ipynb). 
+
 ## Setup
 
 Clone this repo via
@@ -30,7 +32,7 @@ Set up conda environment via `conda env create -n transfer-learning -f environme
 
 The dataset-folder contains two folders:
 "Train" should contain subfolders named after the class of images they contain;
-"Test" should contain test images from multiple classes (not present in the training data".
+"Test" should contain test images from multiple classes (not present in the training data).
 
 
 
